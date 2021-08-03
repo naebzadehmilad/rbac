@@ -14,4 +14,3 @@ rules:
   - deployment
   - pods
   verbs: ["*"]
-[root@milad-cent-2 s
