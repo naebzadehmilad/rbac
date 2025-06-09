@@ -1,6 +1,6 @@
 #!/bin/bash
 
-NEW_USER="p.arazesh"
+NEW_USER="full-admin"
 NAMESPACE="kube-system"
 CONFIG_FILE="${NEW_USER}-config.yaml"
 
